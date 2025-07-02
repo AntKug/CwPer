@@ -1,0 +1,32 @@
+[
+  {
+    "round": 1,
+    "shown_digit": "5",
+    "user_input": "5",
+    "correct": true
+  },
+  {
+    "round": 2,
+    "shown_digit": "6",
+    "user_input": "6",
+    "correct": true
+  },
+  {
+    "round": 3,
+    "shown_digit": "4",
+    "user_input": "4",
+    "correct": true
+  },
+  {
+    "round": 4,
+    "shown_digit": "2",
+    "user_input": "2",
+    "correct": true
+  },
+  {
+    "round": 5,
+    "shown_digit": "0",
+    "user_input": "0",
+    "correct": true
+  }
+]
